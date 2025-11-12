@@ -4,7 +4,7 @@ Cybersecurity Professional | Network Security | Threat Detection | Automation & 
 
 I’m a dedicated cybersecurity analyst and security operations professional with a strong foundation in **network defense, threat analysis, and vulnerability management**. My mission is to protect, monitor, and strengthen organizational systems using a blend of hands-on tools, structured methodologies, and industry frameworks.
 
-Currently pursuing to expand my carreer in Cybersecurity, while continuously building my portfolio of **real-world labs**, **scripts**, and **incident response simulations**.
+Currently pursuing to expand my career in Cybersecurity, while continuously building my portfolio of **real-world labs**, **scripts**, and **incident response simulations**.
 
 ---
 
